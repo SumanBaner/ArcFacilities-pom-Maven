@@ -21,6 +21,8 @@ public class MethodRepository {
 
     private static WebDriver driver;
 
+    //first push
+
 
     public void browserApplicationLaunch(String browserName, String url) throws InterruptedException {
 
